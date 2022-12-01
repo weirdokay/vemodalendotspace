@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://weirdokay.micro.blog/2022/10/04/browsing-around-fameshed.html",
+				"title": "10/03/22 // browsing around FaMESHed",
+				"content_html": "<p><em>another test post</em></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "_another test post_\n\n<img src=\"uploads/2022/7974e6cebe.png\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2022/f5a3b03a6d.png\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2022/37749739e5.png\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2022/dcd0ac1f48.png\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2022/e748bc4503.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-10-04T03:24:58-08:00",
+				"url": "https://vemodalen.space/2022/10/04/browsing-around-fameshed.html"
+			},
+			{
 				"id": "http://weirdokay.micro.blog/2022/09/30/flickrblog-corresponding-posts.html",
 				"title": "flickr/blog corresponding posts test  - The New Kittens",
 				"content_html": "<p>&ldquo;remembered i had a coupon for 2 free kittens&hellip;. A̶̤͍̟̲͓͕͍̼͕͎̽́̒̇͝ţ̸̛̞̒̑̌́̄̽̀͝ ţ̸̛̞̒̑̌́̄̽̀͝h̸͎̲͍̉̉͊̈́̓̕͝è̷̛̗̳͚̙͇̘͍͕̊̑̿͘͜ c̷̡̪̘͎̻̦̀͑̒̈̂̿̑̓̚͜͝l̶̘̫͚͎̟̙̺̼̦͈̋̽̔ų̷͕̙͚͖̲̱̐̒̀̆̎̈͜b̶̡͙̖̹̻̙̠̯͓͐͘ &quot;</p>\n<p>at <a href=\"http://maps.secondlife.com/secondlife/SOCIALITE/101/129/51\">Unison</a><br>\n<em>&amp; <a href=\"https://flic.kr/p/2nP2Cii\">flickr link</a></em></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "\"remembered i had a coupon for 2 free kittens.... A̶̤͍̟̲͓͕͍̼͕͎̽́̒̇͝ţ̸̛̞̒̑̌́̄̽̀͝ ţ̸̛̞̒̑̌́̄̽̀͝h̸͎̲͍̉̉͊̈́̓̕͝è̷̛̗̳͚̙͇̘͍͕̊̑̿͘͜ c̷̡̪̘͎̻̦̀͑̒̈̂̿̑̓̚͜͝l̶̘̫͚͎̟̙̺̼̦͈̋̽̔ų̷͕̙͚͖̲̱̐̒̀̆̎̈͜b̶̡͙̖̹̻̙̠̯͓͐͘ \"   \n\nat [Unison](http://maps.secondlife.com/secondlife/SOCIALITE/101/129/51)  \n_& [flickr link](https://flic.kr/p/2nP2Cii)_  \n\n<img src=\"uploads/2022/5669fdc00d.png\" width=\"600\" height=\"308\" alt=\"\">\n",
-				"date_published": "2022-09-30T23:11:21-07:00",
+				"date_published": "2022-09-30T22:11:21-08:00",
 				"url": "https://vemodalen.space/2022/09/30/flickrblog-corresponding-posts.html",
 				"tags": ["year 2022","Second Life","KittyCatS"]
 			},
@@ -20,7 +28,7 @@
 				"title": "WIP_test!Post // Salem Event 2022",
 				"content_html": "<p>Henry, who has poor fashion sense, browsing around the Salem Event Macabre Market currently going on. I was really just taking screenshots to remember the names of the stores that didn&rsquo;t have landmarks available or i just couldn&rsquo;t find them. :-$</p>\n<p>SLurl: <a href=\"http://maps.secondlife.com/secondlife/Prism%20Events/128/113/22\">Salem Event Macabre Market</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Henry, who has poor fashion sense, browsing around the Salem Event Macabre Market currently going on. I was really just taking screenshots to remember the names of the stores that didn't have landmarks available or i just couldn't find them. :-$ \n\nSLurl: [Salem Event Macabre Market](http://maps.secondlife.com/secondlife/Prism%20Events/128/113/22)\n\n<img src=\"uploads/2022/b3dc9db47d.png\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2022-09-30T22:51:31-07:00",
+				"date_published": "2022-09-30T21:51:31-08:00",
 				"url": "https://vemodalen.space/2022/09/30/test-blog-post.html",
 				"tags": ["year 2022","Second Life","Events"]
 			},
@@ -29,7 +37,7 @@
 				
 				"content_html": "<p>ok blog cleaned out to get ready to try out SL blogging</p>\n",
 				"content_text": "ok blog cleaned out to get ready to try out SL blogging\n",
-				"date_published": "2022-09-30T20:43:21-07:00",
+				"date_published": "2022-09-30T19:43:21-08:00",
 				"url": "https://vemodalen.space/2022/09/30/ok-blog-cleaned.html"
 			},
 			{
@@ -37,7 +45,7 @@
 				
 				"content_html": "<p>why yes I <em>could</em> post Henry&rsquo;s second life screenshots here, as a sort of direct source..</p>\n",
 				"content_text": "why yes I _could_ post Henry's second life screenshots here, as a sort of direct source..\n",
-				"date_published": "2022-08-13T23:50:59-07:00",
+				"date_published": "2022-08-13T22:50:59-08:00",
 				"url": "https://vemodalen.space/2022/08/13/why-yes-i.html"
 			},
 			{
@@ -45,7 +53,7 @@
 				
 				"content_html": "<p>i mean, maybe I should try directly texting it to you. but what if: rejection (?)</p>\n",
 				"content_text": "i mean, maybe I should try directly texting it to you. but what if: rejection (?)\n",
-				"date_published": "2022-07-25T18:33:16-07:00",
+				"date_published": "2022-07-25T17:33:16-08:00",
 				"url": "https://vemodalen.space/2022/07/25/i-mean-maybe.html"
 			},
 			{
@@ -53,7 +61,7 @@
 				
 				"content_html": "<p><em>i don&rsquo;t know how to properly express how much I want you</em></p>\n",
 				"content_text": "_i don't know how to properly express how much I want you_\n",
-				"date_published": "2022-07-25T18:29:08-07:00",
+				"date_published": "2022-07-25T17:29:08-08:00",
 				"url": "https://vemodalen.space/2022/07/25/i-dont-know.html"
 			},
 			{
@@ -61,7 +69,7 @@
 				
 				"content_html": "<p>why&rsquo;d i type Waldo</p>\n",
 				"content_text": "why'd i type Waldo\n",
-				"date_published": "2022-07-23T01:10:34-07:00",
+				"date_published": "2022-07-23T00:10:34-08:00",
 				"url": "https://vemodalen.space/2022/07/23/whyd-i-type.html"
 			},
 			{
@@ -69,7 +77,7 @@
 				
 				"content_html": "<p><em>Waldo</em></p>\n",
 				"content_text": "_Waldo_\n",
-				"date_published": "2022-07-22T01:44:29-07:00",
+				"date_published": "2022-07-22T00:44:29-08:00",
 				"url": "https://vemodalen.space/2022/07/22/waldo.html"
 			},
 			{
@@ -77,7 +85,7 @@
 				
 				"content_html": "<p><em>site editing in progress</em></p>\n",
 				"content_text": "_site editing in progress_\n",
-				"date_published": "2022-07-21T01:39:23-07:00",
+				"date_published": "2022-07-21T00:39:23-08:00",
 				"url": "https://vemodalen.space/2022/07/21/site-editing-in.html"
 			},
 			{
@@ -85,7 +93,7 @@
 				
 				"content_html": "<p>(new domain name)</p>\n",
 				"content_text": "(new domain name)\n",
-				"date_published": "2022-07-20T01:35:17-07:00",
+				"date_published": "2022-07-20T00:35:17-08:00",
 				"url": "https://vemodalen.space/2022/07/20/new-domain-name.html"
 			},
 			{
@@ -93,7 +101,7 @@
 				
 				"content_html": "<p>i dont know how to hear any more about tables</p>\n",
 				"content_text": "i dont know how to hear any more about tables\n",
-				"date_published": "2022-07-16T00:19:34-07:00",
+				"date_published": "2022-07-15T23:19:34-08:00",
 				"url": "https://vemodalen.space/2022/07/16/i-dont-know.html"
 			},
 			{
@@ -101,7 +109,7 @@
 				
 				"content_html": "<p><em>i want to be able to convey a sense of how i am, but i&rsquo;m still in placeholder mode</em></p>\n",
 				"content_text": "_i want to be able to convey a sense of how i am, but i'm still in placeholder mode_\n",
-				"date_published": "2022-07-15T11:10:37-07:00",
+				"date_published": "2022-07-15T10:10:37-08:00",
 				"url": "https://vemodalen.space/2022/07/15/i-want-to.html"
 			},
 			{
@@ -109,7 +117,7 @@
 				
 				"content_html": "<p><!-- raw HTML omitted -->&ldquo;you are free to disagree, but that doesn&rsquo;t change reality&rdquo;<!-- raw HTML omitted --></p>\n",
 				"content_text": "<i>\"you are free to disagree, but that doesn't change reality\"</i>\n",
-				"date_published": "2022-07-15T10:07:34-07:00",
+				"date_published": "2022-07-15T09:07:34-08:00",
 				"url": "https://vemodalen.space/2022/07/15/you-are-free.html"
 			},
 			{
@@ -117,7 +125,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781501192272\">The Talisman</a> by Stephen King 📚</p>\n",
 				"content_text": "Finished reading: [The Talisman](https://micro.blog/books/9781501192272) by Stephen King 📚\n",
-				"date_published": "2022-07-15T03:27:11-07:00",
+				"date_published": "2022-07-15T02:27:11-08:00",
 				"url": "https://vemodalen.space/2022/07/15/finished-reading-the.html"
 			}
 	]
